@@ -4,9 +4,9 @@ const gifStages = [
     "https://media.tenor.com/ag4FIgkgekYAAAAi/ami-fat-cat-please.gif",             // 2 pleading
     "https://media.tenor.com/IqcGhw6ByxMAAAAi/ami-fat-cat-sad.gif",       // 4 sadder
     "https://media.tenor.com/IxZpDCuRsPcAAAAi/amy-cat-cute-cat.gif",             // 3 sad
-    "https://media.tenor.com/oWZqn6GmscUAAAAi/amicat1-waving.gif",             // 5 devastated
+    "https://media.tenor.com/Ck5TfMYfy-kAAAAi/ami-b%E1%BB%A5ng-b%E1%BB%B1.gif",             // 5 devastated
     "https://media1.tenor.com/m/UHtDixeNbMAAAAAC/ami-fat-cat-fgcat.gif",               // 6 very devastated
-    "https://media1.tenor.com/m/nlCp-sK1oRcAAAAC/ami-fat-cat-fgcat.gif"  // 7 crying runaway
+    "https://media.tenor.com/w5ivbsnjkbkAAAAi/ami-cat-fat.gif"  // 7 crying runaway
 ]
 
 const noMessages = [
